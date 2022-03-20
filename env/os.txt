@@ -1,0 +1,42 @@
+Windows NT
+Windows 7
+Windows 8.1
+Windows 10
+Linux
+Ubuntu
+Parrot OS
+iPhone 5
+iPhone 6
+iPhone 7
+iPhone 8
+iPhone X
+Mac
+Samsung Galaxy Note 9
+Samsung Galaxy S9 Plus
+Samsung Galaxy S9
+Samsung Galaxy Note 8
+Samsung Galaxy S8 Plus
+Samsung Galaxy S8
+Samsung Galaxy A8
+Samsung Galaxy S7
+Samsung Galaxy S6
+Acer Chromebook Tab 10
+Acer Liquid Z6 Plus
+Acer Liquid Z6
+HTC U12 life
+HTC U12+
+HTC Desire 12+
+HTC Desire 12
+HTC 10 evo
+Oppo Realme 2 Pro
+Oppo Realme C1
+Oppo Realme 2
+Oppo F9 (F9 Pro)
+Oppo A3
+vivo V11i
+vivo Y97
+vivo X23
+vivo V11 (V11 Pro)
+vivo Y83 Pro
+vivo V9 6GB
+vivo NEX S

@@ -1,0 +1,20 @@
+Safari on Windows 10
+Edge on Windows 8.1
+Safari on Mac OSX
+Google Chrome on Windows 10
+Opera on Mac OSX
+Firefox Windows 7
+Firefox Windows 8.1
+Firefox Mac OSX
+Edge on Windows 10
+Opera on Windows 10
+Edge on Windows 7
+Edge on Mac OSX
+Safari on Windows 8.1
+Google Chrome on Windows 7
+Google Chrome on Mac OSX
+Google Chrome on Windows 8.1
+Safari on Windows 7
+Opera on Windows 7
+Opera on Windows 8.1
+Firefox Windows 10
