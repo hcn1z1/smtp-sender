@@ -1,0 +1,16 @@
+variables:
+
+[email]         use email of sender in email
+[domain]        use domain of email
+[username]      use username of email
+[randomname]    use a random name made from env/name.txt
+[randombr]      use a random browser name from env/random.txt
+[os]            use a random os extracted from env/os.txt
+[location]      use a random location extracted from env/locations.txt
+[emailbase64]   use encoded string of email
+[link]          use a link extracted from env/link.txt
+
+--------------------------------------------------------------------------
+embedded:
+
+<IMG SRC="cid:#IMAGEx">
